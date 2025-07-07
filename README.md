@@ -8,7 +8,7 @@
 - 💬 Ask me about:  
   `HTML`, `CSS`, `JS`, `PHP`, `Laravel`, `Tailwind`, `VueJS`
 - 📫 Contact:  
-  [Email](mailto:sadiasaad1311@gmail.com) |
+  [Email : sadiasaad1311@gmail.com] |
   [LinkedIn](https://www.linkedin.com/in/sadi-s-b2b7b7251/) |
   [GitHub](https://github.com/sadiaaz-)
 
